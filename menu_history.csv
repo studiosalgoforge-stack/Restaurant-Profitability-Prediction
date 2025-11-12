@@ -1,0 +1,3 @@
+ItemName,SellingPrice,IngredientCost,ProfitPerUnit,TotalProfit,Margin(%),QuantitySold,SavedAt,StrategySummary
+Cold Coffee,400.0,150.0,250.0,250.0,62.5,1,2025-11-12T14:00:01.232866,"✅ **Cold Coffee**: Excellent margin (~62.5%). Continue to prioritize quality & scale. **Tactics:** Highlight as a flagship item, try premium upsell, use targeted ads or homepage placement."
+Veg Sandwich,125.0,100.0,150.0,150.0,60.0,1,2025-11-12T14:02:51.235091,"✅ **Veg Sandwich**: Excellent margin (~60.0%). Continue to prioritize quality & scale. **Tactics:** Highlight as a flagship item, try premium upsell, use targeted ads or homepage placement."
